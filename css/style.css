@@ -738,14 +738,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #team .member .pic {
   margin-bottom: 15px;
-  margin-right: auto;
-  margin-left: auto;
   overflow: hidden;
   height: 260px;
 }
 
 #team .member .pic img {
   max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 #team .member h4 {
